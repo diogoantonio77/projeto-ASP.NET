@@ -1,0 +1,2 @@
+C:\dev\faculdade\mislene\Loja\Loja.Web\obj\Debug\Loja.Web.csprojAssemblyReference.cache
+C:\dev\faculdade\mislene\Loja\Loja.Web\obj\Debug\Loja.Web.csproj.CoreCompileInputs.cache

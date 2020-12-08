@@ -1,0 +1,1 @@
+C:\dev\faculdade\mislene\Loja\Loja.Repositorios.Common.Entity\obj\Debug\Loja.Repositorios.Common.Entity.csproj.CoreCompileInputs.cache

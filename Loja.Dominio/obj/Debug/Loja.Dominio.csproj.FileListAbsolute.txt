@@ -1,0 +1,6 @@
+C:\dev\faculdade\mislene\Loja\Loja.Dominio\bin\Debug\Loja.Dominio.dll
+C:\dev\faculdade\mislene\Loja\Loja.Dominio\bin\Debug\Loja.Dominio.pdb
+C:\dev\faculdade\mislene\Loja\Loja.Dominio\obj\Debug\Loja.Dominio.csprojAssemblyReference.cache
+C:\dev\faculdade\mislene\Loja\Loja.Dominio\obj\Debug\Loja.Dominio.csproj.CoreCompileInputs.cache
+C:\dev\faculdade\mislene\Loja\Loja.Dominio\obj\Debug\Loja.Dominio.dll
+C:\dev\faculdade\mislene\Loja\Loja.Dominio\obj\Debug\Loja.Dominio.pdb

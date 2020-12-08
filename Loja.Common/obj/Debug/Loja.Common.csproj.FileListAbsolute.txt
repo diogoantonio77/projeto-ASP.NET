@@ -1,0 +1,6 @@
+C:\dev\faculdade\mislene\Loja\Loja.Repositorios.Common\bin\Debug\Loja.Repositorios.Common.dll
+C:\dev\faculdade\mislene\Loja\Loja.Repositorios.Common\bin\Debug\Loja.Repositorios.Common.pdb
+C:\dev\faculdade\mislene\Loja\Loja.Repositorios.Common\obj\Debug\Loja.Repositorios.Common.csprojAssemblyReference.cache
+C:\dev\faculdade\mislene\Loja\Loja.Repositorios.Common\obj\Debug\Loja.Repositorios.Common.csproj.CoreCompileInputs.cache
+C:\dev\faculdade\mislene\Loja\Loja.Repositorios.Common\obj\Debug\Loja.Repositorios.Common.dll
+C:\dev\faculdade\mislene\Loja\Loja.Repositorios.Common\obj\Debug\Loja.Repositorios.Common.pdb
